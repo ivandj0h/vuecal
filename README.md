@@ -44,4 +44,8 @@ firebase.initializeApp({
 
 export const db = firebase.firestore();
 ```
+
+## ScreenShoot
+![Dashboard](screenshoot.png "This is the dashboard")
+
 Enjoy the demo! Submit an issue if you see anything that could be improved!
